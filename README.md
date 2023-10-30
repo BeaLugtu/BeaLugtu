@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://bealugtu.io)
+[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.aT8E2SQxgnVJeErqG0vQOAHaDU&pid=Api&P=0&h=220)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
