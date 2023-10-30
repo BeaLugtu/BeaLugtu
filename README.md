@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://3.bp.blogspot.com/-jcfhVHYWPdk/UDnsBPynvEI/AAAAAAAAB-U/JtKH38UxjWY/s1600/Funny+Gif+Pictures+free+(12).gif)](https://bealugtu.io)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
