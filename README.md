@@ -1,6 +1,7 @@
 
 
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2021/06/meme-gif-8.gif)](https://bealugtu.io)
+[![MasterHead](![image](https://github.com/BeaLugtu/BeaLugtu/assets/149260052/87a3bae5-eb83-406b-985c-f90875ef7139)
+)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
