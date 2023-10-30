@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://www.thewowstyle.com/wp-content/uploads/2015/01/Funny-Picture-For-Facebook-Cover-11.jpg)](https://bealugtu.io)
+[![MasterHead](https://www.fbcoverlover.com/covers/dad-staring-meme-fb-Facebook-Profile-Timeline-Cover.jpg?i)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
