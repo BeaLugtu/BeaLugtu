@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.aT8E2SQxgnVJeErqG0vQOAHaDU&pid=Api&P=0&h=220)](https://bealugtu.io)
+[![MasterHead](https://gabrielheymans.com/wp-content/uploads/2022/04/Holy-Spirit-Revelation-header-1640-x-924-px.png)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
