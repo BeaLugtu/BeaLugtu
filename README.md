@@ -1,7 +1,6 @@
 
 
-[![MasterHead](![image](https://github.com/BeaLugtu/BeaLugtu/assets/149260052/87a3bae5-eb83-406b-985c-f90875ef7139)
-)](https://bealugtu.io)
+[![MasterHead](https://3.bp.blogspot.com/-jcfhVHYWPdk/UDnsBPynvEI/AAAAAAAAB-U/JtKH38UxjWY/s1600/Funny+Gif+Pictures+free+(12).gif)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
