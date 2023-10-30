@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://gabrielheymans.com/wp-content/uploads/2022/04/Holy-Spirit-Revelation-header-1640-x-924-px.png)](https://bealugtu.io)
+[![MasterHead](https://www.thewowstyle.com/wp-content/uploads/2015/01/Funny-Picture-For-Facebook-Cover-11.jpg)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
 <h3 align="center">2nd-Year Computer Science Student</h3>
 
