@@ -1,11 +1,7 @@
 
 
-[![MasterHead](https://www.fbcoverlover.com/covers/dad-staring-meme-fb-Facebook-Profile-Timeline-Cover.jpg?i)](https://bealugtu.io)
 <h1 align="center">Hi 👋, I'm Bea Lugtu</h1>
-<h3 align="center">2nd-Year Computer Science Student</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bealugtu&label=Profile%20views&color=0e75b6&style=flat" alt="bealugtu" /> </p>
 
 - 🌱 I’m currently learning **React Js**
 
