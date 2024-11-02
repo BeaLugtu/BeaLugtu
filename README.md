@@ -58,7 +58,10 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="php" width="40" height="40"/>
   </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*zXu2vsYPZ5mqF0tOB7kupA.png" alt="reactjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="http://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
