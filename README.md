@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Mern Stack**
 <br>
 - 📫 How to reach me **lugtubealyssa@gmail.com**
 
@@ -55,7 +55,10 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="php" width="40" height="40"/>
+  </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="http://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
